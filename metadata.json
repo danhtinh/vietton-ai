@@ -1,0 +1,6 @@
+{
+  "name": "VietTone AI – Luyện 6 thanh điệu tiếng Việt",
+  "description": "Ứng dụng luyện phát âm 6 thanh điệu tiếng Việt dành cho người nước ngoài, trẻ Việt kiều và học sinh mới học chữ. Chữ lớn, nút to, màu sắc tươi sáng, hỗ trợ tốt trên điện thoại.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
